@@ -247,7 +247,7 @@
                                                                     41st Varshik<br>
                                                                     Sammelan a<br> 
                                                                     successful<br>
-                                                                    event
+                                                                    event<br>
                                                                 </div>
                                                             </li>
                                                             
