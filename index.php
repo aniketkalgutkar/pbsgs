@@ -213,7 +213,7 @@
                                         <!-- Wrapper for slides -->
                                         <div class="carousel-inner">
                                           <div class="item active">
-                                            <img src="content/ngo/images/slider/new1.jpeg" alt="Los Angeles" style="width:100%;">
+                                            <img src="content/ngo/images/slider/29thDec.png" alt="Los Angeles" style="width:100%;">
                                           </div>
                                             
                                           <div class="item active">
