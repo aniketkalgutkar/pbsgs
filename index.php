@@ -121,7 +121,9 @@
                                     <li>
                                         <a style="font-weight: 700; text-transform: uppercase; font-size: 16px;" onclick="membership()" href="content/ngo/forms/membership.pdf" download>Become Member</a>
                                     </li>
-                                    
+                                    <li>
+                                        <a style="color:red; font-size: 16px;" href="content/ngo/download/photo.zip" download>Download latest photos</a>
+                                    </li>
                                 </ul>
                             </nav>
 
